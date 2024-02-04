@@ -1,0 +1,8 @@
+.contSkills
+{
+    transition: transform 0.5s;
+}
+.contSkills:hover
+{
+    transform: scale(1.1);
+}

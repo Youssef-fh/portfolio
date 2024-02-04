@@ -1,0 +1,17 @@
+.port-nav
+{
+    color: white;
+}
+.navbar-brand img
+{
+    height: 70px;
+}
+.lhv
+{
+    transition: transform 0.5s;
+}
+.lhv:hover
+{
+    transform: scale(1.3);
+    font-weight: 600;
+}
